@@ -40,12 +40,12 @@
 |이름|Git|BOJ|Solved|
 |-|-|-|-|
 |김승언|[SikHyeya](https://github.com/SikHyeya)|[tmddjs1127](https://www.acmicpc.net/user/tmddjs1127)|[]()|
-|조윤지|[joyunji](https://github.com/joyunji)|[]()|[]()|
+|조윤지|[joyunji](https://github.com/joyunji)|[dbtmxlsk2007](https://www.acmicpc.net/user/dbtmxlsk2007)|[dbtmxlsk2007](https://solved.ac/profile/dbtmxlsk2007)|
 |김동욱|[]()|[]()|[]()|
-|김성일|[]()|[]()|[]()|
-|김혜민|[HyeM207](https://github.com/HyeM207)|[hyem207](https://www.acmicpc.net/user/hyem207)|[]()|
-|박세정|[sejeong-park](https://github.com/sejeong-park)|[tpwjd29](https://www.acmicpc.net/user/tpwjd29)|[]()|
+|김성일|[hongcana](https://github.com/hongcana)|[hongcana](https://www.acmicpc.net/user/hongcana)|[hongcana](https://solved.ac/profile/hongcana)|
+|김혜민|[HyeM207](https://github.com/HyeM207)|[hyem207](https://www.acmicpc.net/user/hyem207)|[hyem207](https://solved.ac/profile/hyem207)|
+|박세정|[sejeong-park](https://github.com/sejeong-park)|[tpwjd29](https://www.acmicpc.net/user/tpwjd29)|[tpwjd29](https://solved.ac/profile/tpwjd29)|
 |안수빈|[]()|[]()|[]()|
-|이원진|[Dev-Ian-Lee](https://github.com/Dev-Ian-Lee)|[wonjin218](https://www.acmicpc.net/user/wonjin218)|[]()|
+|이원진|[Dev-Ian-Lee](https://github.com/Dev-Ian-Lee)|[wonjin218](https://www.acmicpc.net/user/wonjin218)|[wonjin218](https://solved.ac/profile/wonjin218)|
 |임형우|[Hyuoo](https://github.com/Hyuoo)|[hopeace6](https://www.acmicpc.net/user/hopeace6)|[hopeace6](https://solved.ac/profile/hopeace6)|
 |정우석|[]()|[]()|[]()|
