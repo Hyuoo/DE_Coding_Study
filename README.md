@@ -46,6 +46,6 @@
 |안수빈|[nyeong](https://github.com/nyeong)|[compiztab](https://www.acmicpc.net/user/compiztab)|[compiztab](https://solved.ac/profile/compiztab)|
 |이원진|[Dev-Ian-Lee](https://github.com/Dev-Ian-Lee)|[wonjin218](https://www.acmicpc.net/user/wonjin218)|[wonjin218](https://solved.ac/profile/wonjin218)|
 |임형우|[Hyuoo](https://github.com/Hyuoo)|[hopeace6](https://www.acmicpc.net/user/hopeace6)|[hopeace6](https://solved.ac/profile/hopeace6)|
-|김성일|인턴중[hongcana](https://github.com/hongcana)|[hongcana](https://www.acmicpc.net/user/hongcana)|[hongcana](https://solved.ac/profile/hongcana)|
+|김성일|인턴중 - [hongcana](https://github.com/hongcana)|[hongcana](https://www.acmicpc.net/user/hongcana)|[hongcana](https://solved.ac/profile/hongcana)|
 |정우석|취업쓰|[]()|[]()|
 |김동욱|취업쓰|[]()|[]()|
