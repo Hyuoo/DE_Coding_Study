@@ -1,0 +1,21 @@
+import sys
+input = sys.stdin.readline
+
+A = []
+p_sum = 0
+n = int(input())
+for i in range(n):
+    village, num = map(int, input().split())
+    A.append([village, num])
+    p_sum += num
+    
+A.sort(key = lambda x : x[0])
+
+count = 0
+answer = 0
+for i in range(n):
+    count += A[i][1]
+    if count >= p_sum/2 :
+        answer = A[i][0]
+        break
+print(answer)
