@@ -20,9 +20,9 @@
 
 - - -
 - 1주차 (6.12 ~ 6.14)
-  - [그리디](https://github.com/Hyuoo/DE_Coding_Study/tree/main/1.greedy)
+  - [그리디](/1.Greedy/README.md)
 - 2주차 (6.19 ~ 6.21)
-  - 구현 (문자열 / 시뮬레이션 / 완전탐색)
+  - [구현 (문자열 / 시뮬레이션 / 완전탐색)](/2.Implementation/README.md)
 - 3주차 (6.26 ~ 6.28)
   - DFS / BFS
 - 4주차 (7.3 ~ 7.5)
@@ -41,11 +41,11 @@
 |-|-|-|-|
 |김승언|[SikHyeya](https://github.com/SikHyeya)|[tmddjs1127](https://www.acmicpc.net/user/tmddjs1127)|[]()|
 |조윤지|[joyunji](https://github.com/joyunji)|[dbtmxlsk2007](https://www.acmicpc.net/user/dbtmxlsk2007)|[dbtmxlsk2007](https://solved.ac/profile/dbtmxlsk2007)|
-|김동욱|취업쓰|[]()|[]()|
-|김성일|[hongcana](https://github.com/hongcana)|[hongcana](https://www.acmicpc.net/user/hongcana)|[hongcana](https://solved.ac/profile/hongcana)|
 |김혜민|[HyeM207](https://github.com/HyeM207)|[hyem207](https://www.acmicpc.net/user/hyem207)|[hyem207](https://solved.ac/profile/hyem207)|
 |박세정|[sejeong-park](https://github.com/sejeong-park)|[tpwjd29](https://www.acmicpc.net/user/tpwjd29)|[tpwjd29](https://solved.ac/profile/tpwjd29)|
 |안수빈|[nyeong](https://github.com/nyeong)|[compiztab](https://www.acmicpc.net/user/compiztab)|[compiztab](https://solved.ac/profile/compiztab)|
 |이원진|[Dev-Ian-Lee](https://github.com/Dev-Ian-Lee)|[wonjin218](https://www.acmicpc.net/user/wonjin218)|[wonjin218](https://solved.ac/profile/wonjin218)|
 |임형우|[Hyuoo](https://github.com/Hyuoo)|[hopeace6](https://www.acmicpc.net/user/hopeace6)|[hopeace6](https://solved.ac/profile/hopeace6)|
+|김성일|인턴중[hongcana](https://github.com/hongcana)|[hongcana](https://www.acmicpc.net/user/hongcana)|[hongcana](https://solved.ac/profile/hongcana)|
 |정우석|취업쓰|[]()|[]()|
+|김동욱|취업쓰|[]()|[]()|
