@@ -4,7 +4,7 @@ a=[[0 for _ in range(n)] for _ in range(n)]
 d=[0,0,0,0]
 m=1
 i=j=n//2
-while m<=n**2:
+while m<=n**2:  # while >> for 바꾸니 988 >> 812 실행시간 개선
     a[i][j]=m
     if m==f:
         f=[i+1,j+1]
