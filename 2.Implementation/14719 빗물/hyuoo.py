@@ -14,3 +14,8 @@ for i in reversed(range(w)):
     water[i]=min(water[i],r)
 
 print(sum(water[i]-a[i] for i in range(w)))
+
+'''
+빗물 다 채워놓고
+좌우에서부터 물이차는 만큼 깎아먹는 식
+'''
